@@ -37,7 +37,7 @@ export default function Project() {
               include creating, viewing, and toggling between short and full
               descriptions, all within a clean, userfriendly interface.
             </Typography>
-            <a href="https://github.com/utkarsh1121 " target="_blank">
+            <a href="https://github.com/utkarsh1121/blogPost " target="_blank">
               <GitHubIcon />
             </a>{" "}
           </CardContent>
@@ -65,7 +65,7 @@ export default function Project() {
               includes Home, About, Projects, and a Contact section with a
               Google Form, effectively showcasing my skills and work.
             </Typography>
-            <a href="https://github.com/utkarsh1121 " target="_blank">
+            <a href="https://github.com/utkarsh1121/portfolio " target="_blank">
               <GitHubIcon />
             </a>{" "}
           </CardContent>
