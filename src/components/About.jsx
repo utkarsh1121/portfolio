@@ -65,7 +65,7 @@ export default function About() {
         <motion.h1
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
-          transition={{ delay: 0.5 }}
+          transition={{ delay: 0.5, duration: 0.5 }}
           viewport={{ once: true }}
           className="text-7xl font-sofadi w-auto lg:my-36 xl:my-40 md:my-44"
         >
@@ -75,7 +75,7 @@ export default function About() {
         <motion.p
           initial={{ opacity: 0, x: "4%" }}
           whileInView={{ opacity: 1, x: "0" }}
-          transition={{ delay: 0.5, duration: 0.5 }}
+          transition={{ delay: 0.9, duration: 0.9 }}
           viewport={{ once: true }}
           className="md:ml-12  md:my-36 text-lg md:w-3/5 "
         >
