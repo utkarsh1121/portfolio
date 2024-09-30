@@ -18,7 +18,7 @@ export default function Header() {
   return (
     <div className="fixed w-full z-50">
       <div>
-        <span className="absolute top-0 left-0 p-4 text-white hidden md:block">
+        <span className="absolute top-0 left-0 p-5 text-white hidden md:block">
           <DataObjectIcon fontSize="medium" />
         </span>
 

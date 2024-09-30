@@ -61,7 +61,7 @@ export default function About() {
   ];
   return (
     <div className=" text-white" id="/about">
-      <div className="text-white  md:flex justify-items-center p-3 md:ml-20 md:my-5 my-40">
+      <div className="text-white  md:flex justify-items-center p-3 md:ml-20 md:my-5 md:mt-32 my-40">
         <motion.h1
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
