@@ -27,7 +27,7 @@ export default function Home() {
           <span className="text-red-600 text-7xl font-sofadi">Utkarsh </span>
         </h1>
         <br />
-        <span className=" text-4xl">Manual Tester</span>
+        <span className=" text-4xl">Manual Tester </span>
         <div className="flex items-center space-x-2">
           <a href="https://github.com/utkarsh1121 " target="_blank">
             <GitHubIcon />
